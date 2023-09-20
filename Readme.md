@@ -6,7 +6,9 @@
 
 # WinForms Filter Control - How to implement an IFilteredComponent interface
 
-This example demonstrates how to create a component that wraps [XPCollection](https://docs.devexpress.com/XPO/DevExpress.Xpo.XPCollection) and implemets a custom mechanism to generate display names of filter columns (`FilterColumn`). If the `DisplayName` attribute is applied to a persistent property, the `FilterControl` uses its value to display a filter column name. In this example, the display name of the nested persistent property includes a full path to this property (for example, "Category.Name").
+This example demonstrates how to create a component that wraps [XPCollection](https://docs.devexpress.com/XPO/DevExpress.Xpo.XPCollection) and implemets a custom mechanism to generate display names of filter columns (`FilterColumn`). If the `DisplayName` attribute is applied to a persistent property, the `FilterControl` uses its value to display a filter column name.
+
+In this example, the display name of the nested persistent property includes a full path to this property (for example, "Category.Name").
 
 
 ## Files to Review
