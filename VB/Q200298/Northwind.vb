@@ -28,7 +28,7 @@ Namespace Northwind
             End Get
 
             Set(ByVal value As String)
-                SetPropertyValue("CategoryName", fCategoryName, value)
+                SetPropertyValue(Of String)("CategoryName", fCategoryName, value)
             End Set
         End Property
 
@@ -41,7 +41,7 @@ Namespace Northwind
             End Get
 
             Set(ByVal value As String)
-                SetPropertyValue("Description", fDescription, value)
+                SetPropertyValue(Of String)("Description", fDescription, value)
             End Set
         End Property
 
@@ -90,7 +90,7 @@ Namespace Northwind
             End Get
 
             Set(ByVal value As String)
-                SetPropertyValue("ProductName", fProductName, value)
+                SetPropertyValue(Of String)("ProductName", fProductName, value)
             End Set
         End Property
 
@@ -137,7 +137,7 @@ Namespace Northwind
             End Get
 
             Set(ByVal value As String)
-                SetPropertyValue("QuantityPerUnit", fQuantityPerUnit, value)
+                SetPropertyValue(Of String)("QuantityPerUnit", fQuantityPerUnit, value)
             End Set
         End Property
 
