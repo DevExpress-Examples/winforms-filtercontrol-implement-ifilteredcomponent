@@ -17,7 +17,7 @@ In this example, the display name of the nested persistent property includes a f
 * [Form1.cs](./CS/Q200298/Form1.cs) (VB: [Form1.vb](./VB/Q200298/Form1.vb))
 * [Helper.cs](./CS/Q200298/Helper.cs) (VB: [Helper.vb](./VB/Q200298/Helper.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-filtercontrol-implement-ifilteredcomponent&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-filtercontrol-implement-ifilteredcomponent&~~~was_helpful=no)
 
